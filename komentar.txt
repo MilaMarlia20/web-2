@@ -1,0 +1,30 @@
+<table width=500 align=center bgcolor=#CCCCCC>
+
+<tr>
+
+<td width=300> Jumlah Positif  </td>
+
+<td width=300> Jumlah dirawat  </td>
+
+<td width=300>  Jumlah Sembuh  </td>
+
+<td width=300> Jumlah Meninggal </td>
+
+</tr>
+
+<tr>
+
+<td> 311 </td>
+
+<td> 233 </td>
+
+<td> 45 </td>
+
+<td> 43 </td>
+
+</tr>
+
+</table>
+
+<br>
+
